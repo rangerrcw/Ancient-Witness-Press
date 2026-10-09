@@ -1,0 +1,7 @@
+{
+  "name": "ancient-witness-press",
+  "compatibility_date": "2026-10-06",
+  "assets": {
+    "directory": "./site"
+  }
+}

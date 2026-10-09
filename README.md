@@ -1,26 +1,21 @@
-# Ancient Witness Press — independent static research website
+# Ancient Witness Press — approved homepage visual + research reader
 
-This is a **clean, standalone static reader**, extracted from the user-provided Grok workspace ZIP. It does not require Grok, ChatGPT, Node.js, an AI API, a database, or authentication to serve. It preserves the supplied generated research JSON **byte-for-byte**.
+This is an **interim, static visual restoration**, not a recovered original homepage source. Inspection of the supplied Grok workspace found a TanStack research reader, **not** the black-and-gold approved homepage pictured in the supplied image. The approved homepage screenshot is included as a reference image and used as the visible homepage with accessible clickable navigation regions. The original source for that exact design is not present in the provided workspace.
 
-## What is included
-- All twelve `surah-XX.json` generated research exports and their original `source-manifest.json` (unchanged bytes).
-- Static HTML/JS searchable QDISC/QB research reader with separate ChatGPT/Grok provenance and OPEN flags.
-- Project-owner publication approval for Surahs 1–12 is applied **only in the display layer**; source metadata is untouched.
+## Deployment
 
-## What is not included
-- `.grok/`, `.vercel/`, workspace configuration, authentication, server routes, database integrations, attachments, research ZIPs, original transcript, screenshots, logs, environment variables, or credentials.
-- The original Grok React/TanStack interface. This package is a **standalone migration/preview reader**, not a pixel-perfect build of the original application.
-- Complete 16-component research-library presentation; that requires additional controlled exports.
+Upload **wrangler.jsonc**, **site/**, **.gitignore**, and this README to the root of your existing GitHub repository. Do not remove the existing files yet. The Cloudflare Worker Git integration currently runs `npx wrangler deploy`; the `wrangler.jsonc` here changes the published asset directory to `./site` so `.git` and repository metadata are not included. Leave the Cloudflare deploy command unchanged. Commit, then check the new deployment log for `assets directory .../site` and ensure no `.git/` uploads. If Cloudflare has custom overrides, update them to respect the config.
 
-## Local preview
-From the extracted folder, run `python -m http.server 8000` then open `http://localhost:8000`. Do not open `index.html` directly from disk because browsers restrict JSON fetches from `file://`.
+## Site contents
 
-## Deploy
-Upload **the contents of this folder** (not the original Grok workspace ZIP) to the public GitHub repository. Connect that repository to Cloudflare Pages, using **no build command** and **output directory `/`** (repository root). If the host requires an output folder, set it to `.`. Test the provider preview domain before touching the domain DNS.
+- `site/index.html` — approved homepage visual with functional navigation hotspots.
+- `site/approved-homepage-reference.png` — user-provided approved design screenshot; the text is baked into this image.
+- `site/reader.html` and `site/app.js` — original static research reader, relocated to `/reader.html`.
+- `site/data/` — byte-identical research JSON from the previous GitHub-safe package, Surahs 1–12.
+- `site/thought.html`, `site/about.html`, `site/contact.html` — conservative placeholder sections, not invented book/contact content.
 
-## Governance and provenance
-- Original workspace ZIP SHA-256: `5b097bb9406e531d4fdd93599af6da144301d6babf76bea3d7f34572cfc88c8f`
-- Source JSON bytes are unchanged; see `DATA_SHA256SUMS.txt`.
-- Original source research/publication-state fields may still say DRAFT or UNPUBLISHED; they have not been silently changed. The owner approved public display of Surahs 1–12 separately on 2026-10-09.
-- Full frozen-source field-level reconciliation is still outstanding; do not represent this as a certified full 16-component repository.
-- Review all content, licensing and attribution before public deployment.
+## Limitations
+
+The approved homepage has been restored **visually** from the screenshot, but its original interactive source is unavailable in the supplied Grok workspace. On mobile the reference scales down, and a separate responsive navigation list is supplied. Rebuilding the layout natively with individual artwork, responsive text, and full sections will require the original homepage source/assets or a new implementation. The current research reader presents QDISC/QB and does not yet independently expose all 16 components. Research classifications remain unchanged.
+
+Do not connect ancientwitnesspress.com until homepage, navigation, data loading, and deployment security are tested on the temporary workers.dev address.
