@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "grok:QDISC-0032",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0032",
+      "Title": "QRQ-0002 corpus profile of Jesus son of Mary",
+      "Surah_Verse": "multiple (see dossier)",
+      "Discovery_Statement": "Virgin-born Messiah, word/spirit from God, messenger not God, signs by permission, 4:157 denies kill/crucify, God raised him.",
+      "Classification": "STRONG TEXTUAL PATTERN across cited verses",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0002",
+      "QB": "QB-0018–0026",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Jesus",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0299",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0299",
+      "Title": "Human from salsal of hama' masnun; jinn before from samum-fire",
+      "Surah_Verse": "15:26–27",
+      "Discovery_Statement": "Off-sequence open.",
+      "Classification": "DIRECT TEXTUAL STATEMENT",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0008",
+      "QB": "QB-0168",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Adam",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0300",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0300",
+      "Title": "Spirit breathed then sajda; Iblis refuses that bashar",
+      "Surah_Verse": "15:28–33",
+      "Discovery_Statement": "All angels together except Iblis.",
+      "Classification": "DIRECT TEXTUAL STATEMENT",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0008",
+      "QB": "QB-0165",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Adam",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0301",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0301",
+      "Title": "Rajim; curse to Day of Din; respite to the known time",
+      "Surah_Verse": "15:34–38",
+      "Discovery_Statement": "Same respite request as 7:14.",
+      "Classification": "DIRECT TEXTUAL STATEMENT",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0008",
+      "QB": null,
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0302",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0302",
+      "Title": "Adorn the earth; no authority except followers; seven gates",
+      "Surah_Verse": "15:39–44",
+      "Discovery_Statement": "Exception: mukhlas servants.",
+      "Classification": "DIRECT TEXTUAL STATEMENT",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0008",
+      "QB": null,
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0328",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0328",
+      "Title": "No walked bush, I AM, Passover, ten-count, basket",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Parked in 20 / 28 / 7:130.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "QURAN+BIBLE",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0183",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Moses",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0359",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0359",
+      "Title": "Deut 18: brothers/midst; Qumran; Acts 3",
+      "Surah_Verse": "Deut 18:15–18",
+      "Discovery_Statement": "Pre-Islamic IDs: Israelite prophet or Jesus.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "BIBLE",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0204",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0360",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0360",
+      "Title": "Deut 33:2 YHWH-theophany; Paran not Mecca",
+      "Surah_Verse": "Deut 33:2",
+      "Discovery_Statement": "Sifre: nations refuse Torah.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "BIBLE",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0205",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0361",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0361",
+      "Title": "Isa 42 servant; Kedar in praise stanza; 1QIsa-a",
+      "Surah_Verse": "Isa 42",
+      "Discovery_Statement": "Matt 12 applies to Jesus.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "BIBLE",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0206",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0363",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0363",
+      "Title": "John parakletos; no periklytos MS",
+      "Surah_Verse": "John 14–16",
+      "Discovery_Statement": "P66 ca. 200.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "BIBLE",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0208",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0364",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0364",
+      "Title": "No pre-Islamic ID of these loci as Muhammad",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Living snapshot.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "BIBLE",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0209",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0369",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0369",
+      "Title": "Quran never names four evangelists",
+      "Surah_Verse": "walked Injil file",
+      "Discovery_Statement": "Level 1 silence.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0210",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0371",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0371",
+      "Title": "No recovered Jesus-authored kitab",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "State of the historical file.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0211",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Jesus",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0372",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0372",
+      "Title": "Jewish-Christian gospels are later fragments",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Not 5:46.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0215",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Jesus",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0373",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0373",
+      "Title": "euangelion: message then book-title",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "2nd-century shift.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0213",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0374",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0374",
+      "Title": "Diatessaron weaves the four",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Gospel of the Mixed.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0216",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Jesus",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0375",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0375",
+      "Title": "Syriac liturgical Gospel 2nd–5th c.",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Ephrem commentary; Theodoret confiscations.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0216",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0376",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0376",
+      "Title": "Passion remains in Diatessaron witnesses",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Dura fragment before 256.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0218",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Jesus",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0378",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0378",
+      "Title": "Peshitta four is 7th-c. Syriac default",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Diatessaron already being retired in 5th c.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0216",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0380",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0380",
+      "Title": "Ultimate etymon Greek euangelion",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Good news / gospel.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0220",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0381",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0381",
+      "Title": "Immediate donor Syriac and/or Ethiopic OPEN",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Jeffery leaned Ge'ez; Aramaic 'enjila favors Syriac.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0221",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0386",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0386",
+      "Title": "No verse says the book in hand is not the Tawrat",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Level 1 silence.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0226",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0387",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0387",
+      "Title": "Jewish Torah-corpus predates Islam",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "MT LXX DSS Samaritan.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0223",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0388",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0388",
+      "Title": "Lost-original is later theory",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Tensions with 3:93 / 5:43.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "TAFSIR/HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0226",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0390",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0390",
+      "Title": "Extant pre-Islamic books yield no clear Muhammad",
+      "Surah_Verse": "cluster",
+      "Discovery_Statement": "Named-proofs failed their own tests.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "BIBLE+HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0228",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0392",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0392",
+      "Title": "Tawrat test stronger via DSS",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Pentateuch already in form centuries prior.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0229",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0406",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0406",
+      "Title": "No named hadith corpus in walked text",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Level 1 silence.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0236",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0408",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0408",
+      "Title": "Rebuild after 33:21 / 59:7 / 16:44",
+      "Surah_Verse": "parked",
+      "Discovery_Statement": "uswa; take what he gives; make clear.",
+      "Classification": "PARKED",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0238",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Parked",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0411",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0411",
+      "Title": "No walked Sunnah-corpus installation",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "sunna walked = God/ancients.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0240",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0412",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0412",
+      "Title": "Book-and-Sunnah reports cannot prove themselves",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Circular.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0240",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0413",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0413",
+      "Title": "Canons 3rd c.; fabrication admitted by guild",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "Bukhari d. 256/870.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0241",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0414",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0414",
+      "Title": "Kernel likely; blanket reliability not established",
+      "Surah_Verse": "—",
+      "Discovery_Statement": "External test still open.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "HISTORY",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0241",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0454",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0454",
+      "Title": "Parked correction-cousins",
+      "Surah_Verse": "66:1; 80:1; 18:23; 33:36",
+      "Discovery_Statement": "Rebuild obey-file when walked.",
+      "Classification": "PARKED",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0262",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Parked",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0469",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0469",
+      "Title": "Post-mortem obey must carry both poles",
+      "Surah_Verse": "cluster",
+      "Discovery_Statement": "Sunnah must not drop Pole B.",
+      "Classification": "SYNTHESIS",
+      "Provenance": "QURAN",
+      "QRQ": "QRQ-0004",
+      "QB": "QB-0269",
+      "QI": null,
+      "QCA": null,
+      "Dossier": "Muhammad",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QDISC-0518",
+    "kind": "QDISC",
+    "originalBuild4Fields": {
+      "ID": "QDISC-0518",
+      "Title": "Test through 114 for that missing sentence",
+      "Surah_Verse": "open",
+      "Discovery_Statement": "Then date later doctrine.",
+      "Classification": "METHOD",
+      "Provenance": "QURAN+HISTORY",
+      "QRQ": "QRQ-0003",
+      "QB": "QB-0288",
+      "QI": null,
+      "QCA": null,
+      "Dossier": null,
+      "Status": "Open-active",
+      "First_Logged": "2026-09-14"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0143",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0143",
+      "Title": "No weariness vs God rested",
+      "Quran_Passages": "50:38 PARKED",
+      "Bible_Passages": "Gen 2:2; Exod 31:17",
+      "Nature": "PARKED CONTRAST",
+      "Arabic_Notes": "ma massana min lughub",
+      "BH_Grc_Notes": "shabat / wayyinnafash",
+      "Muslim_Readings": "Do not spend 50:38 yet",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "PARKED",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0154",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0154",
+      "Title": "Blessed rest vs no walked creation-sabbath",
+      "Quran_Passages": "—",
+      "Bible_Passages": "Gen 2:2–3 (close of the week)",
+      "Nature": "CONTRAST; 50:38 parked",
+      "Arabic_Notes": null,
+      "BH_Grc_Notes": "shabat",
+      "Muslim_Readings": "2:65 is a ban-file not this",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "CONTRAST",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0168",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0168",
+      "Title": "S015 additions: spirit-breath, samum-jinn, seven gates",
+      "Quran_Passages": "15:26–44",
+      "Bible_Passages": "—",
+      "Nature": "NEW PANEL",
+      "Arabic_Notes": "nafakhtu fihi min ruhi",
+      "BH_Grc_Notes": "Gen 2:7 breath of life is cousin not identity",
+      "Muslim_Readings": "Rebuild at canonical S015",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "PARTIAL AGREEMENT / NEW",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0183",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0183",
+      "Title": "Book-plot vs panels; missing bush/Passover/ten",
+      "Quran_Passages": "walked Moses",
+      "Bible_Passages": "Exod 1–15",
+      "Nature": "CONTRAST of form",
+      "Arabic_Notes": null,
+      "BH_Grc_Notes": null,
+      "Muslim_Readings": "Rebuild after 7:130 and 20",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "CONTRAST",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0186",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0186",
+      "Title": "No walked Passover lamb-night",
+      "Quran_Passages": "—",
+      "Bible_Passages": "Exod 12",
+      "Nature": "CONTRAST",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "pesach / dam",
+      "Muslim_Readings": "Do not force 2:49",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "CONTRAST",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-11"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0194",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0194",
+      "Title": "Nine-sign verses parked",
+      "Quran_Passages": "17:101; 27:12",
+      "Bible_Passages": "—",
+      "Nature": "PARK",
+      "Arabic_Notes": "tis' ayat",
+      "BH_Grc_Notes": "—",
+      "Muslim_Readings": "Do not pad 7:133",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "PARK",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0220",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0220",
+      "Title": "Injil < euangelion via church language",
+      "Quran_Passages": "injil",
+      "Bible_Passages": "euangelion / ewangeliyon / wangel",
+      "Nature": "AGREEMENT of etymon",
+      "Arabic_Notes": "injil",
+      "BH_Grc_Notes": "euangelion",
+      "Muslim_Readings": "Not native Arabic",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "AGREEMENT",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0221",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0221",
+      "Title": "Syriac vs Ge'ez immediate donor",
+      "Quran_Passages": "—",
+      "Bible_Passages": "Jeffery 1938; Sinai 2023; Neo-Aramaic 'enjila",
+      "Nature": "OPEN",
+      "Arabic_Notes": "injil",
+      "BH_Grc_Notes": "ewangeliyon / wangel",
+      "Muslim_Readings": "Do not freeze",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "OPEN",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0224",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0224",
+      "Title": "No Genesis-Deuteronomy TOC",
+      "Quran_Passages": "walked Tawrat file",
+      "Bible_Passages": "—",
+      "Nature": "LIMIT of agreement",
+      "Arabic_Notes": "Tawrat",
+      "BH_Grc_Notes": "humash",
+      "Muslim_Readings": null,
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "LIMIT",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0236",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0236",
+      "Title": "Three later answers",
+      "Quran_Passages": "walked obey-file",
+      "Bible_Passages": "Quran-only / hadith / uli l-amr",
+      "Nature": "FRAME",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "—",
+      "Muslim_Readings": "None yet shown as entailment",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "FRAME",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0238",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0238",
+      "Title": "Do not finish before 33:21 and 59:7",
+      "Quran_Passages": "parked",
+      "Bible_Passages": "uswa hasana; ma atakumu l-rasul",
+      "Nature": "METHOD",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "—",
+      "Muslim_Readings": "Living snapshot rule",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "METHOD",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0240",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0240",
+      "Title": "Q2 intention via Sunnah NOT SHOWN",
+      "Quran_Passages": "walked Quran",
+      "Bible_Passages": "later Book-and-Sunnah hadith",
+      "Nature": "NOT SHOWN / circular if hadith-proved",
+      "Arabic_Notes": "sunnat al-awwalin",
+      "BH_Grc_Notes": "al-kitab wa-l-sunna reports",
+      "Muslim_Readings": "Rebuild after 33:21 / 59:7",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "NOT SHOWN",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0241",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0241",
+      "Title": "Q3 collections not blanket-reliable",
+      "Quran_Passages": "—",
+      "Bible_Passages": "3rd c. six books",
+      "Nature": "NOT ESTABLISHED as blanket",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "isnad / sahih grade",
+      "Muslim_Readings": "Kernel likely",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "NOT ESTABLISHED",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0242",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0242",
+      "Title": "Twin-source constitution is later",
+      "Quran_Passages": "—",
+      "Bible_Passages": "usul al-fiqh",
+      "Nature": "HISTORICAL FRAME",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "kitab + sunna as usul",
+      "Muslim_Readings": "May be true; not read off walked page",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "FRAME",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0269",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0269",
+      "Title": "LOCKED: highly authoritative, not independently sovereign",
+      "Quran_Passages": "cluster",
+      "Bible_Passages": "later Sunnah / Quran-only",
+      "Nature": "FRAME",
+      "Arabic_Notes": "ati'u l-rasul",
+      "BH_Grc_Notes": "afa llahu anka / la a'lamu l-ghayb",
+      "Muslim_Readings": "8:203 mapped to 7:203",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": "Muhammad",
+      "Classification": "LOCKED FRAME",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-12"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0288",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0288",
+      "Title": "Rebuild if they-changed-the-book-they-possess appears",
+      "Quran_Passages": "open to 114",
+      "Bible_Passages": "—",
+      "Nature": "TEST",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "—",
+      "Muslim_Readings": "If 114 closes without it, date the later doctrine",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "TEST",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-14"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  },
+  {
+    "id": "grok:QB-0318",
+    "kind": "QB",
+    "originalBuild4Fields": {
+      "ID": "QB-0318",
+      "Title": "Do not erase Gen 7 via unwalked tahrif",
+      "Quran_Passages": "11 + Gen 7",
+      "Bible_Passages": "QCA-0001",
+      "Nature": "METHOD",
+      "Arabic_Notes": "—",
+      "BH_Grc_Notes": "—",
+      "Muslim_Readings": "Contradiction stands beside the confirmation cluster",
+      "Christian_Jewish_Readings": null,
+      "Prelim_Determination": null,
+      "Final_Determination": null,
+      "Classification": "METHOD",
+      "Status": "Open-active",
+      "First_Logged": "2026-09-19"
+    },
+    "scope": "Unassigned to Surahs 1–12; may be cross-surah, parked, or refer to later Surahs. No artificial Surah assignment."
+  }
+]
